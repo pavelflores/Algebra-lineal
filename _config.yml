@@ -1,7 +1,1 @@
-#theme: jekyll-theme-minimal
-#-------------------------------
 markdown: kramdown
-permalink: 'title/'
-plugins:
-  -jekyll-paginate
-  -jekyll-sitemap
